@@ -13,6 +13,7 @@ This is a starter template for creating React applications with custom configura
   - [Install Dependencies](#install-dependencies)
   - [Development](#development)
 - [Additional Configuration](#additional-configuration)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -87,6 +88,15 @@ Open your browser and navigate to http://localhost:5173 to see your React app li
 
 - For production build, run npm run build, yarn build or pnpm build.
 - Customize tsconfig.json, .prettierrc, and tailwind.config.ts as needed for your project.
+
+## Contributing
+
+We welcome contributions! If you'd like to contribute to React Starter, please follow these guidelines:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
 
 # License
 
