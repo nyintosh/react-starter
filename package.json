@@ -1,5 +1,6 @@
 {
-	"name": "gemini-ce",
+	"name": "react-starter",
+	"description": "React + TypeScript + Tailwindcss + Vite + Prettier Starter Template",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
